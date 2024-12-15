@@ -1,0 +1,39 @@
+article url: https://www.cnbc.com/2023/05/09/alto-pharmacy-disruptor-50.html
+
+// article
+
+Disruptor 50 2023
+6. Alto Pharmacy
+Published Tue, May 9 20235:50 AM EDTUpdated Wed, Apr 10 20241:17 PM EDT
+CNBC.com staff
+Founders: Jamie Karraker, Mattieu Gamache-Asselin
+CEO: Alicia Boler Davis
+Launched: 2015
+Headquarters: San Francisco
+Funding: $523 million
+Valuation: N/A
+Key technologies: Cloud computing, machine learning, robotics
+Industry: Health care
+Previous appearances on Disruptor 50 List: 0
+
+header image: https://imagedelivery.net/X_BN-JDDL4T5Dab7aNGUKA/fef89374-34be-4db6-4118-29327822e900/public
+Caption: Persephone Kavallines
+
+A typical pharmacy order involves coordination with the customer, the doctor prescribing the order, and an insurance company. Plenty of mishaps can happen along the way — prescriptions don’t get called in, the pharmacy is out of stock of something or awaiting authorization from the insurance company, or the insurance company doesn’t cover the brand of medication the doctor prescribed. Much of this process occurs over phone or fax and the customer gets the burdensome task of checking in with the various parties to make sure the order gets pushed through.
+
+Alto Pharmacy aims to change all that by updating the prescription process with a digital platform, making it easier, faster and cheaper for people to get their prescriptions. The company started when founders Jamie Karraker and Mattieu Gamache-Asselin, both former Facebook employees, wanted to simplify the experience for patients and doctors. Karraker and Gamach-Asselin wanted to make a positive impact on people’s lives using tech and identified the pharmacy industry as a target. “We were feeling a bit jaded with the Silicon Valley ecosystem. A lot of the companies weren’t working on the most meaningful problems… We were really drawn to health care in general but had no health care experience at all,” Karraker told MIT News.
+
+To get that experience, the two bought a small pharmacy in San Francisco. Today, Alto is a full-service pharmacy with roughly $1 billion in annualized revenue and reaches more than 41 million people in 12 metropolitan areas. The company’s software platform streamlines the prescription procurement process for both doctors and patients while patients can consult with a support team 7 days a week and get free prescription delivery to their homes.
+
+The company raised $200 million in January 2022 and brought on Alicia Boler Davis, a tech executive with experience at General Motors and Amazon, as the new CEO in September. It’s also made a few acquisitions, buying the patient files of NowRx in November to assume all prescription delivery and services for NowRx patients in California.
+
+Alto Pharmacy says it has provided over $120 million in savings to date and boasts a 71% prescription adherence rate — 40% higher than the industry average.
+
+More and more startups are seeing opportunity to improve on the current pharmacy model and the space is getting more competitive, and attracting top investors. There’s Mark Cuban-backed Cost Plus Drugs, Capsule, Truepill, CapitalRx and Fullscript in Canada.
+
+It’s not just startups trying to disrupt the space. In 2018, Amazon
+ acquired online pharmacy Pillpacks, now rebranded as Amazon Pharmacy. In addition, Walmart snapped up a prescription management app from startup CareZone in 2020, while UnitedHealth Group
+ acquired home-delivery pharmacy DivvyDose for $300 million.
+
+Thus far, digital pharmacy and prescription platforms remain dwarfed by incumbent giants in this $548 billion industry. And those that have gone public have struggled, such as GoodRx
+, down nearly 90% since its 2020 IPO. The parent company of Medly Pharmacy, a recent rival, filed for bankruptcy in December, selling some of its assets to Walgreens.
